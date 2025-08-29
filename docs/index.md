@@ -17,7 +17,7 @@ Esa persona que aparece media muerta en la foto soy yo.
 
 ![foto de mi](recursos/imgs/yo.jpeg)
 
-# ¿Quién soy?
+## ¿Quién soy?
 
 Soy Maria de Lourdes Diguero Ferreira (Marilu) tengo 17 años y soy estudiante de primer semestre en ingenieria mecatronica.
 
