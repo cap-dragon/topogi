@@ -1,7 +1,7 @@
 #Que esta sucediendo aqui?
 
 <div style="text-align:right;">
-  <img src="recursos/imgs/dmn.jpeg" alt="pixelart" width="200">
+  <img src="recursos/imgs/dmn.png" alt="pixelart" width="100">
 </div>
 
 ---
