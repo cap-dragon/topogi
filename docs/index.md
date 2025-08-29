@@ -10,7 +10,9 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
 
 Esa persona que aparece media muerta en la foto soy yo.
 
-<img src="../docs/recursos/imgs/yo.jpeg" alt="" width="600">
+
+<img src="../docs/recursos/imgs/yo.jpeg" alt="">
+
 
 tambien decidi añadir un poco de la musica que me gusta:
 
