@@ -54,6 +54,9 @@ O incluso de ganar una beca con un proyecto mal hecho a las carreras, y creo que
     <i class="fab fa-discord"></i> 805908886879338506
   </p>
 
+<div style="text-align:right;">
+  <img src="recursos/imgs/dragon.png" alt="pixelart" width="300">
+</div>
   
   <p style="margin-top:10px; font-size:12px; color:#aaa;">
     © 2025 Mi Sitio Web
