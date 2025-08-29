@@ -17,17 +17,18 @@ Esa persona que aparece media muerta en la foto soy yo.
 
 ![foto de mi](recursos/imgs/yo.jpeg)
 
-
-tambien decidí añadir un poco de la musica que me gusta:
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2Rj1m5zPa8UAmzFcJ3fPcw?utm_source=generator&theme=0" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+# ¿Quién soy?
 
 Soy Maria de Lourdes Diguero Ferreira (Marilu) tengo 17 años y soy estudiante de primer semestre en ingenieria mecatronica.
 
-Realmente es un fastidio pensar en algo que hice y este realmente orgullosa de ello, aunque podria decir que enorgullese pasar la preparatoria en un año no lo veo algo bueno en si, el fabacademy no cuenta ya que aun no lo he finalizado aun.
+Realmente es un fastidio pensar en algo que hice y este realmente orgullosa de ello, aunque podria decir que enorgullese pasar la preparatoria en un año no lo veo algo tan relevante en si, el fabacademy no cuenta ya que aun no lo he finalizado aun.
 
-O incluso de ganar una beca con un proyecto mal hecho a las carreras, y creo que sellar un submarino con toallas sanitarias no suena algo de lo que estar orgullosa (puede que si, puede que no) asi que supongo que escogere esa ultima.
+O incluso de ganar una beca con un proyecto mal hecho a las carreras, y creo que sellar un submarino con toallas sanitarias no suena algo de lo que estar orgullosa (puede que si, puede que no) asi que supongo que escogeré esa ultima.
 
+## Un poco de musica
+
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2Rj1m5zPa8UAmzFcJ3fPcw?utm_source=generator&theme=0" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
 
