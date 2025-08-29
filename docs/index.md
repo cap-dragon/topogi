@@ -1,7 +1,8 @@
 #Que esta sucediendo aqui?
 
-Bienvenido 👋  
-Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) para cursos y proyectos.
+<div style="text-align:right;">
+  <img src="recursos/imgs/dmn.jpeg" alt="pixelart" width="200">
+</div>
 
 ---
 
