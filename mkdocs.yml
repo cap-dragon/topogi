@@ -41,5 +41,3 @@ extra_css:
   - https://use.fontawesome.com/releases/v6.5.2/css/all.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css
 
- extra:
-  footer: "📧 micorreo@example.com | 📞 +52 123 456 7890 | 💬 Discord: MiDiscord#1234"
