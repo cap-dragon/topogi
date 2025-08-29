@@ -1,6 +1,6 @@
-#Que esta sucediendo aqui?
 
-<div style="text-align:right;">
+
+#Que esta sucediendo aqui? <div style="text-align:right;">
   <img src="recursos/imgs/dmn.png" alt="pixelart" width="100">
 </div>
 
