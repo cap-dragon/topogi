@@ -29,7 +29,7 @@ theme:
   highlightjs: true 
   palette:
       - scheme: slate
-        primary: purple
+        primary: 4F3ACF
 
   features:
     - content.code.copy
