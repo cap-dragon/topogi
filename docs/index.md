@@ -24,6 +24,14 @@ Realmente es un fastidio pensar en algo que hice y este realmente orgullosa de e
 
 O incluso de ganar una beca con un proyecto mal hecho a las carreras, y creo que sellar un submarino con toallas sanitarias no suena algo de lo que estar orgullosa (puede que si, puede que no) asi que supongo que escogere esa ultima.
 
+Tambien hago muchas cosas que al final son inecesarias o que no ocupare, por ejemplo cuando escanee este barco:
+
+<video width="560" height="315" controls>
+  <source src="..//docs/recursos/videos/barco.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de videos.
+</video>
+
+(Fueron 4 horas de trabajo).
 
 
 ## Datos curiosos sobre mi:  
@@ -39,13 +47,12 @@ O incluso de ganar una beca con un proyecto mal hecho a las carreras, y creo que
 <div style="text-align:center; font-size:14px; margin-top:40px; opacity:0.9;">
 
   <p>
-    <i class="fas fa-envelope"></i> micorreo@example.com &nbsp;|&nbsp;
-    <i class="fas fa-phone"></i> +52 123 456 7890 &nbsp;|&nbsp;
-    <i class="fab fa-discord"></i> MiDiscord#1234
+    <i class="fas fa-envelope"></i> 198571@iberopuebla.mx &nbsp;|&nbsp;
+    <i class="fas fa-phone"></i> +52 1222 508 63 22 &nbsp;|&nbsp;
+    <i class="fab fa-discord"></i> 805908886879338506
   </p>
 
-  <img src="img/foto.jpeg" alt="Mi foto" width="100" style="margin-top:10px; border-radius:50%; box-shadow:0 0 8px rgba(0,0,0,0.2);">
-
+  
   <p style="margin-top:10px; font-size:12px; color:#aaa;">
     © 2025 Mi Sitio Web
   </p>
