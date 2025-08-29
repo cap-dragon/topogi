@@ -16,6 +16,8 @@ Esta es una **plantilla** basada en [MkDocs](https://www.mkdocs.org/) + [Materia
                                                                                                                     ░░██████                                                                                                                                           
                                                                                                                      ░░░░░░                                                                                                                                            </pre>
 
+---
+
 ## bienvenidos a mi cueva antisocial de primer semestre
 
 
